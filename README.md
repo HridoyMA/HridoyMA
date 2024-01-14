@@ -27,7 +27,7 @@ I love to develop web applications using React.js, Next.js, JavaScript, and CSS.
 - 🌱 <b>Getting better at:</b> Typescript
 - 🤔 <b>Exploring:</b>  Clean Code , Reusability
 - ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
-- 💬 <b>Ask me about:</b> Frontend web 
+- 💬 <b>Ask me about:</b> Frontend web, Islam
 
 [![Website Connect](https://img.shields.io/badge/Portfolio-red?style=flat-square&logoColor=White)](https://portfolio-next-8hzs.vercel.app/https://portfolio-next-8hzs.vercel.app/)
 [![Linkedin: Mashiur Ahmed Hridoy](https://img.shields.io/badge/-Hridoy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajnur/)](https://www.linkedin.com/in/mashiur-ahmed-hridoy/)

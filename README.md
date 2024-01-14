@@ -29,7 +29,7 @@ I love to develop web applications using React.js, Next.js, JavaScript, and CSS.
 - ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
 - 💬 <b>Ask me about:</b> Frontend web, Islam
 
-[![Website Connect](https://img.shields.io/badge/Portfolio-red?style=flat-square&logoColor=White)](https://portfolio-next-8hzs.vercel.app/https://portfolio-next-8hzs.vercel.app/)
+[![Website Connect](https://img.shields.io/badge/Portfolio-red?style=flat-square&logoColor=White)](https://portfolio-next-8hzs.vercel.app)
 [![Linkedin: Mashiur Ahmed Hridoy](https://img.shields.io/badge/-Hridoy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajnur/)](https://www.linkedin.com/in/mashiur-ahmed-hridoy/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ma_hridoy/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hredoy)

@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin: Mashiur Ahmed Hridoy](https://img.shields.io/badge/-Hridoy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajnur/)](https://www.linkedin.com/in/mashiur-ahmed-hridoy/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ma_hridoy/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hredoy)
+[![CodeChef](https://img.shields.io/badge/Vjudge-informational?style=flat)](https://vjudge.net/user/Hridoy14)
+[![CodeChef](https://img.shields.io/badge/Atcoder-informational?style=flat)](https://atcoder.jp/users/Hredoy)
+[![CodeChef](https://img.shields.io/badge/CSES-informational?style=flat)](https://cses.fi/user/123947)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/HridoyMA?label=Follow&style=social) -->
